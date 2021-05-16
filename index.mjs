@@ -114,7 +114,7 @@ done();
 //       console.log(`${who} played`)
 //     if(who == "Player1"){
         
-//         return [5,2];
+//         return [5,2]
 //     }else{
 //        return [3,8] ;
 //     }
